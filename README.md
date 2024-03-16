@@ -1,2 +1,3 @@
 # Demo
-This is my
+This is my demo project.
+
